@@ -5,17 +5,17 @@ wgs {
 
 }
 
-.wgs-mole-head {
+.wgs__mole-head {
   height: auto;
   position: absolute;
   width:auto;
 }
 
-.wgs-mole-hill {
+.wgs__mole-hill {
   height: auto;
   width:auto;
   position: absolute;
-  bottom: 0;
+
 }
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
